@@ -1,0 +1,17 @@
+# Virtual environment
+myenv/
+venv/
+ENV/
+
+# Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.db
+*.log
+
+# FAISS Vector Index local directories
+faiss_index/
+Faiss_index/
